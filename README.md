@@ -1,0 +1,2 @@
+# d590nlp_flavorguru
+D590 FINAL PROJECT - FLAVORGURU
