@@ -59,5 +59,8 @@ Ingredient Recipe Search: Users can input a list of ingredients and search for r
 User  Feedback: Users can give feedback on recommendations or even recipes in general to refine future recommendations. 
 
 
+Link to Dataset(Kaggle) : https://www.kaggle.com/datasets/hugodarwood/epirecipes/
+
+
 
 A PROJECT BY RATAN TEJASWI VADAPALLI
