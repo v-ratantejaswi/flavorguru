@@ -1,7 +1,8 @@
-nltk
-sklearn.metrics.pairwise
-sklearn.feature_extraction.text
-mlxtend.frequent_patterns
-mlxtend.preprocessing
 csv
 hashlib
+streamlit
+pandas
+numpy
+nltk
+scikit-learn
+mlxtend
