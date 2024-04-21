@@ -15,13 +15,6 @@ Analyze flavor combinations to understand dominant profiles.
 Continuously refine suggestions based on user feedback.
 
 
-## Why FlavorGuru? 🌟
-
-While various recipe recommendation platforms exist, FlavorGuru stands out with its:
-
-NLP-driven Analysis: Ensuring flavor profile matching.
-Feedback Learning: Refining recommendations with each user interaction.
-
 
 Dataset 📊
 
