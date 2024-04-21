@@ -1,7 +1,5 @@
 # FLAVORGURU - D590 FINAL PROJECT
 
-## FlavorGuru: Personalized Recipe Recommendations based on Flavor Profiles 🌿🍲
-
 Welcome to the GitHub repository of FlavorGuru, an innovative recipe recommendation system driven by Natural Language Processing (NLP).
 
 ## Project Overview 📋
